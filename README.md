@@ -4,7 +4,9 @@ This project was created out of need to generate a list of waypoints for use wit
 ## Installation
 Installation is a cinch. Download `poke_waypoints.html` and open in your favorite browser. After opening you will be presented with the following:
 
-![PokeBotWaypointGenerator](https://github.com/brandonhon/PokeBotWaypointGenerator/blob/master/demo_screenshot.png)
+![PokeBotWaypointGenerator](https://github.com/brandonhon/PokeBotWaypointGenerator/blob/master/empty_screenshot.png)
 
 ## Use
-Using the route generator is as easy as clicking on map. To setup a route you would like your bot to follow simply click the points on the map in order for the route you woule like to follow. 
+Using the route generator is as easy as clicking on map. The map can be zoomed in and out and dragged to the location of your choice.
+
+To setup a route for your bot first move and center the map over your location or the location you would like to use. Now select the starting point for your route. A marker will be placed at the selected point on the map with the label **A**.
