@@ -90,9 +90,8 @@
 		var points_text = "", format = "raw";
 		if (document.getElementById("json").checked) {
 			format = "json";
-			points_text += 'var routeCenter = ' + serializeLatLng(response.routes[0].bounds.getCenter()) + ';\n';
-			points_text += 'var routeSpan = ' + serializeLatLng(response.routes[0].bounds.toSpan()) + ';\n';
-			points_text += 'var routePoints = [\n'
+
+			points_text += '[\n'
 		}
 		response.routes[0].bounds.getCenter.lng
 		var nPoints = response.routes[0].overview_path.length;
