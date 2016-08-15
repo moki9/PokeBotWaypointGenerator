@@ -14,4 +14,5 @@ To setup a route for your bot first move and center the map over your location o
 For those using **PokemonGo-Bot** by changing the `"path_mode": "loop"` to `"path_mode": "linear"` your bot will follow the path **A - Z** and then in reverse **Z - A**. This will make your bot behave in a more human like manner.
 
 Below is a sample screenshot of the generator in action:
+
 ![demo_screenshot](https://github.com/brandonhon/PokeBotWaypointGenerator/blob/master/demo_screenshot.png)
