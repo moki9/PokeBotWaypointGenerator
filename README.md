@@ -1,5 +1,5 @@
 # PokemonGo Bot Route Point Generator
-This project was created out of need to generate a list of waypoints for use with the [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) and other bots.
+This project was created out of need to generate a list of waypoints for use with the [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) and other bots. The generator uses the Google Maps API to generate routes that follow pedestrian paths & sidewalks. This will make your bot seem more human like.
 
 ## Installation
 Installation is a cinch. Download `poke_waypoints.html` and open in your favorite browser. After opening you will be presented with the following:
